@@ -12,7 +12,6 @@ cd ~
 mkdir nps
 cd nps
 wget https://github.com/ehang-io/nps/releases/download/v0.26.10/linux_386_client.tar.gz
-
 tar -xvf linux_386_client.tar.gz
 chmod +x ./npc
 ./npc install -server=oracle.handu0377.com:8024 -vkey=60n9m3juj59tp26t -type=tcp
