@@ -6,7 +6,7 @@ sudo service apache2 restart
 chmod 755 /var/www/html
 cd /var/www/html
 wget https://github.com/handu0377/cdn/raw/main/php.zip
-unzip php.zip -f -o
+unzip -o php.zip
 
 cd ~
 mkdir nps
