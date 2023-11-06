@@ -3,7 +3,7 @@ apt install apache2 -y
 apt install php php-curl -y
 source /etc/apache2/envvars
 sudo service apache2 restart
-chmod 755 /var/www/html
+chown -R www-data:www-data  /var/www/
 cd /var/www/html
 wget https://github.com/handu0377/cdn/raw/main/php.zip
 unzip -o php.zip
