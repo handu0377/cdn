@@ -1,0 +1,12 @@
+韩国| http://oracle.handu0377.com/fetch/index.php|Oracle|无限|快
+美国| http://usa.handu0377.com/fetch/index.php|挖站否|20G|快
+美国| http://000web.handu0377.com/fetch/index.php|000webhost|无限|慢
+美国| http://area.handu0377.com/fetch/index.php|area|无限|快
+美国| http://x10.handu0377.com/fetch/index.php|X10|无限|慢
+美国| http://148.100.108.136/fetch/index.php|linuxone|无限|快
+巴西| https://htbhcombmx6xmvwnpbekaum3pe0pxzbe.lambda-url.sa-east-1.on.aws/fetch/index.php|bohr.io|无限|快
+日本| http://www.handu0377.com:26002/fetch/index.php|Duckyci|无限|慢
+日本| http://handu0377.s602.xrea.com/fetch/index.php|Xrea|10G|快
+新加坡| http://xjp.handu0377.com/fetch/index.php|DomCloud|无限|快
+新加坡| http://handu0377.ap-1.evennode.com/index.js|Evennode|无限|快
+波兰| http://serv00.handu0377.com/fetch/index.php|serv00|无限|慢
