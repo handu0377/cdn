@@ -8,6 +8,5 @@
 日本| http://handu0377.s602.xrea.com/fetch/index.php|Xrea|10G|快<BR>
 日本| http://jpdj2.ip8.shop:26002/fetch/index.php|Duckyci|无限|慢<BR>
 新加坡| http://xjp.handu0377.com/fetch/index.php|DomCloud|无限|快<BR>
-新加坡| http://handu0377.ap-1.evennode.com/index.js|Evennode|无限|快<BR>
 波兰| http://serv00.handu0377.com/fetch/index.php|serv00|无限|慢<BR>
 全球高速| http://worker-two.handu0377.com/|CloudFlare|无限|高速
